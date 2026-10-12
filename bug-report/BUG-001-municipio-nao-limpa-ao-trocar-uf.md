@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/f1a302a2-7015-4188-9fdb-ffb342ec409c
+
 
 # BUG-001 — Município permanece selecionado ao trocar a UF no cadastro
 
